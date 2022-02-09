@@ -1,0 +1,21 @@
+.button{
+    color: #ffffff;
+    background-color: transparent;
+    border-width: 0px;
+}
+.buttonActive{
+    color:#fec653;
+    background-color: transparent;
+    border-width: 0px;
+    text-decoration: underline;
+}
+.imgSize{
+    width: 80px;
+    height:60px;
+}
+.but{
+    background-color: transparent;
+    border-width: 0px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,11 @@
+.button{
+    color: #ffffff;
+    background-color: transparent;
+    border-width: 0px;
+}
+.buttonActive{
+    color:#fec653;
+    background-color: transparent;
+    border-width: 0px;
+    text-decoration: underline;
+}
